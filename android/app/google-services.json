@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "764884460203",
+    "firebase_url": "https://scb-mobile-database-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "scb-mobile-database",
+    "storage_bucket": "scb-mobile-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764884460203:android:f6a9bdfc5a07f8d1b40dee",
+        "android_client_info": {
+          "package_name": "com.example.scb_mobile_banking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764884460203-17li2vn9h3tgjbdh08i3caqfbpb3eo4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiy7D9id0bFsxi4gChpNmaMiiu7VD5dTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764884460203-17li2vn9h3tgjbdh08i3caqfbpb3eo4t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764884460203-ftgqutnqkm0afcqmo1cjfdeud8ohsgor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scbMobileBanking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
